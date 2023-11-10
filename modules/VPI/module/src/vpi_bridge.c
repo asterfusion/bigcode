@@ -135,5 +135,5 @@ vpi_bridge_destroy(vpi_bridge_t v)
 
 
 #else /* VPI_CONFIG_INCLUDE_BRIDGING */
-int vpi_bridge_c_not_empty = 1;
+//int vpi_bridge_c_not_empty = 1;
 #endif

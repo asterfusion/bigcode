@@ -35,6 +35,6 @@ os_sleep_usecs(uint64_t usecs)
 
 
 #else
-int __not_empty__;
+//int __not_empty__;
 #endif
 

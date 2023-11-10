@@ -41,6 +41,6 @@ os_time_thread(void)
 }
 
 #else
-int __not_empty__;
+//int __not_empty__;
 #endif
 
